@@ -11,7 +11,8 @@
 10. [API](#api)
 
 # Overreacted
-This is a sample project using Swift and Combine
+This is a sample project using Swift and Combine <br />
+![](https://github.com/aliunco/overreacted/blob/main/demo.gif?raw=true)
 
 # Description
 

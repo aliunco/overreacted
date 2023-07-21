@@ -65,7 +65,7 @@ class HomeViewController: UIViewController, UITableViewDelegate {
         
         textView.addHyperLinksToText(
             originalText: "Personal blog by Ali Saeedifar I explain with words and code.",
-            hyperLinks: ["Ali Saeedifar":"https://mobile.twitter.com/Aliunco90"]
+            hyperLinks: ["Ali Saeedifar":"https://www.linkedin.com/in/ali-saeedifar/"]
         )
     }
     
